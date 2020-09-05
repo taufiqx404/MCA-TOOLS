@@ -127,7 +127,6 @@ echo $pr"صِرَاطَ الَّذِيۡنَ اَنۡعَمۡتَ عَلَيۡه
 echo $pr"jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pu                       >
 echo
 echo $me" MUSLIM CYBER ARMY "
-fi
 
 if [ $pil = 3 ]
 then
