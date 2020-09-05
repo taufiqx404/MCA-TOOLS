@@ -124,13 +124,15 @@ echo $pr"اِھْدِنَا الصِّرَاطَ الْمُسْتَـقِيْم�
 echo $pr"Tunjukilah kami jalan yang lurus"
 echo
 echo $pr"صِرَاطَ الَّذِيۡنَ اَنۡعَمۡتَ عَلَيۡهِمۡ ۙ غَيۡرِ الۡمَغۡضُوۡبِ عَلَيۡهِمۡ وَلَا الضَّآلِّيۡنَ"
-echo $pr"jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pu                       >
+echo $pr"jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pu
 echo
 echo $me" MUSLIM CYBER ARMY "
+fi
 
 if [ $pil = 3 ]
 then
-clear                                                                                                                                        echo $cy"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْم"
+clear
+echo $cy"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْم"
 echo $cy"الٓمّٓۚ"
 echo $cy"Alif Lam Mim"
 echo
@@ -138,40 +140,46 @@ echo $cy"ذٰلِكَ الْكِتٰبُ لَا رَيْبَ ۛ فِيْهِ ۛ 
 echo $cy"Kitab (Al-Qur'an) ini tidak ada keraguan padanya; petunjuk bagi mereka yang bertakwa,"
 echo
 echo $cy"الَّذِيْنَ يُؤْمِنُوْنَ بِالْغَيْبِ وَ يُـقِيْمُوْنَ الصَّلٰوةَ وَ مِمَّا رَزَقْنٰھُمْ يُنْفِقُوْنَ"
-echo $cy"(yaitu) mereka yang beriman kepada yang gaib, melaksanakan shalat, dan menginfakkan sebagian rezeki yang Kam                       >
+echo $cy"(yaitu) mereka yang beriman kepada yang gaib, melaksanakan shalat, dan menginfakkan sebagian rezeki yang Kam
 echo
 echo $cy"وَ الَّذِيْنَ يُؤْمِنُوْنَ بِمَآ اُنْزِلَ اِلَيْكَ وَمَآ اُنْزِلَ مِنْ قَبْلِكَ ۚ وَبِالْاٰخِرَةِ ھُمْ يُوْقِنُوْنَ"
-echo $cy"dan mereka yang beriman kepada (Al-Qur'an) yang diturunkan kepadamu (Muhammad) dan (kitab-kitab) yang telah                        >
+echo $cy"dan mereka yang beriman kepada (Al-Qur'an) yang diturunkan kepadamu (Muhammad) dan (kitab-kitab) yang telah                  
 echo
 echo $cy"اُولٰٓٮِٕكَ عَلٰى هُدًى مِّنۡ رَّبِّهِمۡ‌ وَاُولٰٓٮِٕكَ هُمُ الۡمُفۡلِحُوۡنَ‏"
 echo $cy"Merekalah yang mendapat petunjuk dari Tuhannya, dan mereka itulah orang-orang yang beruntung."
 echo
-echo $cy"اِنَّ الَّذِيۡنَ كَفَرُوۡا سَوَآءٌ عَلَيۡهِمۡ ءَاَنۡذَرۡتَهُمۡ اَمۡ لَمۡ تُنۡذِرۡهُمۡ لَا يُؤۡمِنُوۡنَ‏"                                                                          echo $cy"Sesungguhnya orang-orang kafir, sama saja bagi mereka, engkau (Muhammad) beri peringatan atau tidak engkau b                       >
+echo $cy"اِنَّ الَّذِيۡنَ كَفَرُوۡا سَوَآءٌ عَلَيۡهِمۡ ءَاَنۡذَرۡتَهُمۡ اَمۡ لَمۡ تُنۡذِرۡهُمۡ لَا يُؤۡمِنُوۡنَ‏" 
+echo $cy"Sesungguhnya orang-orang kafir, sama saja bagi mereka, engkau (Muhammad) beri peringatan atau tidak engkau b                       >
 echo
 echo $cy"خَتَمَ اللّٰهُ عَلَىٰ قُلُوۡبِهِمۡ وَعَلٰى سَمۡعِهِمۡ‌ؕ وَعَلٰىٓ اَبۡصَارِهِمۡ غِشَاوَةٌ وَّلَهُمۡ عَذَابٌ عَظِيۡمٌ"
 echo $cy"Allah telah mengunci hati dan pendengaran mereka, penglihatan mereka telah tertutup, dan mereka akan mendapa                       >
 echo
 echo $cy"وَمِنَ النَّاسِ مَنۡ يَّقُوۡلُ اٰمَنَّا بِاللّٰهِ وَبِالۡيَوۡمِ الۡاٰخِرِ وَمَا هُمۡ بِمُؤۡمِنِيۡنَ‌ۘ‏"
-echo $cy"Dan di antara manusia ada yang berkata, Kami beriman kepada Allah dan hari akhir, padahal sesungguhnya merek                       >echo
+echo $cy"Dan di antara manusia ada yang berkata, Kami beriman kepada Allah dan hari akhir, padahal sesungguhnya merek
+echo
 echo $cy"يُخٰدِعُوۡنَ اللّٰهَ وَالَّذِيۡنَ اٰمَنُوۡا ‌ۚ وَمَا يَخۡدَعُوۡنَ اِلَّاۤ اَنۡفُسَهُمۡ وَمَا يَشۡعُرُوۡنَؕ"
-echo $cy"Mereka menipu Allah dan orang-orang yang beriman, padahal mereka hanyalah menipu diri sendiri tanpa mereka s                       >echo
+echo $cy"Mereka menipu Allah dan orang-orang yang beriman, padahal mereka hanyalah menipu diri sendiri tanpa mereka s
+echo
 echo $cy"فِىۡ قُلُوۡبِهِمۡ مَّرَضٌۙ فَزَادَهُمُ اللّٰهُ مَرَضًا ‌ۚ وَّلَهُمۡ عَذَابٌ اَلِيۡمٌۙۢ بِمَا كَانُوۡا يَكۡذِبُوۡنَ‏"
-echo $cy"Dalam hati mereka ada penyakit, lalu Allah menambah penyakitnya itu; dan mereka mendapat azab yang pedih, ka                       >
+echo $cy"Dalam hati mereka ada penyakit, lalu Allah menambah penyakitnya itu; dan mereka mendapat azab yang pedih, ka                       
 echo
-echo $cy"وَاِذَا قِيۡلَ لَهُمۡ لَا تُفۡسِدُوۡا فِىۡ الۡاَرۡضِۙ قَالُوۡاۤ اِنَّمَا نَحۡنُ مُصۡلِحُوۡنَ"
-echo $cy"Dan apabila dikatakan kepada mereka, Janganlah berbuat kerusakan di bumi! Mereka menjawab, Sesungguhnya kami                       >
+echo $cy"وَاِذَا قِيۡلَ لَهُمۡ لَا تُفۡسِدُوۡا فِىۡ الۡاَرۡضِۙ قَالُوۡاۤ اِنَّمَا نَحۡنُ مُصۡلِحُوۡنَ
+echo $cy"Dan apabila dikatakan kepada mereka, Janganlah berbuat kerusakan di bumi! Mereka menjawab, Sesungguhnya kami                       
 echo
-echo $cy"اَلَا ۤ اِنَّهُمۡ هُمُ الۡمُفۡسِدُوۡنَ وَلٰـكِنۡ لَّا يَشۡعُرُوۡنَ"                                                                                              echo $cy"Ingatlah, sesungguhnya merekalah yang berbuat kerusakan, tetapi mereka tidak menyadari."
-echo                                                                                                                                         echo $cy"وَاِذَا قِيۡلَ لَهُمۡ اٰمِنُوۡا كَمَاۤ اٰمَنَ النَّاسُ قَالُوۡاۤ اَنُؤۡمِنُ كَمَاۤ اٰمَنَ السُّفَهَآءُ‌ ؕ اَلَاۤ اِنَّهُمۡ هُمُ السُّفَهَآءُ وَلٰـكِنۡ لَّا يَعۡلَمُوۡنَ"
-echo $cy"Dan apabila dikatakan kepada mereka, Berimanlah kamu sebagaimana orang lain telah beriman! Mereka menjawab,                        >
+echo $cy"اَلَا ۤ اِنَّهُمۡ هُمُ الۡمُفۡسِدُوۡنَ وَلٰـكِنۡ لَّا يَشۡعُرُوۡنَ" 
+echo $cy"Ingatlah, sesungguhnya merekalah yang berbuat kerusakan, tetapi mereka tidak menyadari."
+echo
+echo $cy"وَاِذَا قِيۡلَ لَهُمۡ اٰمِنُوۡا كَمَاۤ اٰمَنَ النَّاسُ قَالُوۡاۤ اَنُؤۡمِنُ كَمَاۤ اٰمَنَ السُّفَهَآءُ‌ ؕ اَلَاۤ اِنَّهُمۡ هُمُ السُّفَهَآءُ وَلٰـكِنۡ لَّا يَعۡلَمُوۡنَ"
+echo $cy"Dan apabila dikatakan kepada mereka, Berimanlah kamu sebagaimana orang lain telah beriman! Mereka menjawab,            
 echo
 echo $cy"وَاِذَا لَقُوۡا الَّذِيۡنَ اٰمَنُوۡا قَالُوۡاۤ اٰمَنَّا ۖۚ وَاِذَا خَلَوۡا اِلٰى شَيٰطِيۡنِهِمۡۙ قَالُوۡاۤ اِنَّا مَعَكُمۡۙ اِنَّمَا نَحۡنُ مُسۡتَهۡزِءُوۡنَ"
-echo $cy"Dan apabila mereka berjumpa dengan orang yang beriman, mereka berkata, "Kami telah beriman." Tetapi apabila                        >
+echo $cy"Dan apabila mereka berjumpa dengan orang yang beriman, mereka berkata, "Kami telah beriman." Tetapi apabila                      
 echo
 echo $cy"اَللّٰهُ يَسۡتَهۡزِئُ بِهِمۡ وَيَمُدُّهُمۡ فِىۡ طُغۡيَانِهِمۡ يَعۡمَهُوۡنَ‏"
 echo $cy"Allah akan memperolok-olokkan mereka dan membiarkan mereka terombang-ambing dalam kesesatan."
-echo                                                                                                                                         echo $cy"اُولٰٓٮِٕكَ الَّذِيۡنَ اشۡتَرَوُا الضَّلٰلَةَ بِالۡهُدٰى فَمَا رَبِحَتۡ تِّجَارَتُهُمۡ وَمَا كَانُوۡا مُهۡتَدِيۡنَ‏"
-echo $cy"Mereka itulah yang membeli kesesatan dengan petunjuk. Maka perdagangan mereka itu tidak beruntung dan mereka                       >
+echo
+echo $cy"اُولٰٓٮِٕكَ الَّذِيۡنَ اشۡتَرَوُا الضَّلٰلَةَ بِالۡهُدٰى فَمَا رَبِحَتۡ تِّجَارَتُهُمۡ وَمَا كَانُوۡا مُهۡتَدِيۡنَ‏"
+echo $cy"Mereka itulah yang membeli kesesatan dengan petunjuk. Maka perdagangan mereka itu tidak beruntung dan mereka 
 echo
 echo
 echo $cy"مَثَلُهُمۡ كَمَثَلِ الَّذِى اسۡتَوۡقَدَ نَارًا ‌ۚ فَلَمَّاۤ اَضَآءَتۡ مَا حَوۡلَهٗ ذَهَبَ اللّٰهُ بِنُوۡرِهِمۡ وَتَرَكَهُمۡ فِىۡ ظُلُمٰتٍ لَّا يُبۡصِرُوۡنَ"
@@ -181,10 +189,10 @@ echo $cy"صُمٌّۢ بُكۡمٌ عُمۡىٌ فَهُمۡ لَا يَرۡجِ
 echo $cy"Mereka tuli, bisu dan buta, sehingga mereka tidak dapat kembali."
 echo
 echo $cy"اَوۡ كَصَيِّبٍ مِّنَ السَّمَآءِ فِيۡهِ ظُلُمٰتٌ وَّرَعۡدٌ وَّبَرۡقٌ‌ ۚ يَجۡعَلُوۡنَ اَصَابِعَهُمۡ فِىۡۤ اٰذَانِهِمۡ مِّنَ الصَّوَاعِقِ حَذَرَ الۡمَوۡتِ‌ؕ وَاللّٰهُ مُحِيۡطٌ‌ۢ بِالۡكٰفِرِيۡنَ"
-echo $cy"Atau seperti (orang yang ditimpa) hujan lebat dari langit, yang disertai kegelapan, petir dan kilat. Mereka menyumbat telinga denga>
+echo $cy"Atau seperti (orang yang ditimpa) hujan lebat dari langit, yang disertai kegelapan, petir dan kilat. Mereka menyumbat telinga denga
 echo
 echo $cy"يَكَادُ الۡبَرۡقُ يَخۡطَفُ اَبۡصَارَهُمۡ‌ؕ كُلَّمَاۤ اَضَآءَ لَهُمۡ مَّشَوۡا فِيۡهِ وَاِذَاۤ اَظۡلَمَ عَلَيۡهِمۡ قَامُوۡا‌ؕ وَلَوۡ شَآءَ اللّٰهُ لَذَهَبَ بِسَمۡعِهِمۡ وَاَبۡصَارِهِمۡ‌ؕ اِنَّ اللّٰهَ عَلٰى كُلِّ شَىۡءٍ قَدِيۡرٌ"
-echo $cy"Hampir saja kilat itu menyambar penglihatan mereka. Setiap kali (kilat itu) menyinari, mereka berjalan di bawah (sinar) itu, dan ap>
+echo $cy"Hampir saja kilat itu menyambar penglihatan mereka. Setiap kali (kilat itu) menyinari, mereka berjalan di bawah (sinar) itu, dan ap
 echo
 echo $me" MUSLIM CYBER ARMY"
 fi
